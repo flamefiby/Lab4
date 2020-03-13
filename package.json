@@ -1,0 +1,35 @@
+{
+  "strangeProducts": [
+    {
+      "name":"A home mushroom farm\n",
+      "price": 22.85,
+      "details": "Now you can grow your own fungus right at home—and not in between your toes!",
+      "image": "1.jpg"
+    },
+    {
+      "name":"A cat butt tissue holder",
+      "price": 34.94,
+      "details": "This seems like the nicest thing to be plucked from a cat's rear since, well, ever. And who doesn't like to be stared down with peering, inquisitive eyes each time they need to blow their nose?",
+      "image": "2.jpg"
+    },
+    {
+      "name":"A peanut butter and jelly of the month club",
+      "price": 468.96,
+      "details": "If you've ever thought to yourself, \"Spreading peanut butter and jelly on bread is too time-consuming,\" Amazon has the answer. For just under $40 a month, you can enjoy gourmet peanut butter and jelly sandwiches, delivered straight to your door.",
+      "image": "3.jpg"
+    },
+    {
+      "name":"A dog dryer",
+      "price": 39.95,
+      "details": "Having a dog dry itself off all over your living room post-bath is rarely ideal. Fortunately, there's a bizarre blow-dryer suit out there that can help keep your pup from dripping all over the house.",
+      "image": "4.jpg"
+    },
+    {
+      "name":"A Godzilla garden gnome",
+      "price": 24.99,
+      "details": "Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+      "image": "5.jpg"
+    }
+  ]
+}
+
