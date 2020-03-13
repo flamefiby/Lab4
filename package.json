@@ -1,7 +1,7 @@
 {
   "strangeProducts": [
     {
-      "name":"A home mushroom farm\n",
+      "name":"A home mushroom farm",
       "price": 22.85,
       "details": "Now you can grow your own fungus right at home—and not in between your toes!",
       "image": "1.jpg"
@@ -15,7 +15,7 @@
     {
       "name":"A peanut butter and jelly of the month club",
       "price": 468.96,
-      "details": "If you've ever thought to yourself, \"Spreading peanut butter and jelly on bread is too time-consuming,\" Amazon has the answer. For just under $40 a month, you can enjoy gourmet peanut butter and jelly sandwiches, delivered straight to your door.",
+      "details": "If you've ever thought to yourself, Spreading peanut butter and jelly on bread is too time-consuming, Amazon has the answer. For just under $40 a month, you can enjoy gourmet peanut butter and jelly sandwiches, delivered straight to your door.",
       "image": "3.jpg"
     },
     {

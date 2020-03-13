@@ -1,4 +1,4 @@
-let requestURL = 'https://flamefiby.github.io/week9inclass/package.json';
+let requestURL = 'https://flamefiby.github.io/Lab4/package.json';
 //create new XHR object
 let request = new XMLHttpRequest();
 
@@ -10,8 +10,6 @@ request.responseType = 'json';
 request.send();
 
 
-//wait for the request to be returned, store the response in a variable
-//invoke pizzaTypes function with pozzaTypes as argument
 request.onload = function(){
     let productInfo = request.response;
     console.log(productInfo);
@@ -33,7 +31,7 @@ function products(jsonObj){
         let ul = document.createElement('ul');
 
         img.setAttribute('src',
-            'https://flamefiby.github.io/week9inclass/img/' + products[i].image);
+            'https://flamefiby.github.io/Lab4/img/' + products[i].image);
         img.setAttribute('alt', products[i].image);
 
         h2.textContent = products[i].name;
