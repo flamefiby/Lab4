@@ -13,7 +13,7 @@ request.send();
 request.onload = function(){
     let productInfo = request.response;
     console.log(productInfo);
-    pizzaTypes(productInfo);
+    products(productInfo);
 };
 
 
